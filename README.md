@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+[![John Paul K J's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnpaulkj&theme=dark&show_icons=true)]
+[![John Paul K J's Top Languages Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=johnpaulkj&layout=compact&theme=dark)]
 <!--
-**johnpaulkj/johnpaulkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jpadmin/jpadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
